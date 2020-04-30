@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310258123491",
+    "firebase_url": "https://notifications-85efa.firebaseio.com",
+    "project_id": "notifications-85efa",
+    "storage_bucket": "notifications-85efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310258123491:android:bcfb5b9a952c6389",
+        "android_client_info": {
+          "package_name": "com.luckypic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310258123491-kbnb8s2r22uf5i55u8cjaakl0ear0a3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgthhSLP6pAw3haLvOHwQEZfJZY9iMeTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310258123491-kbnb8s2r22uf5i55u8cjaakl0ear0a3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
